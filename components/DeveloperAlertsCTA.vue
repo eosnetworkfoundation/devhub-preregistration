@@ -2,7 +2,7 @@
   <section class="dev-alerts-cta">
     <h2>The EOS network's learning experience is about to get <b>an upgrade.</b></h2>
     <p>
-      In the coming months this education portal will <b>spring to life</b>.
+      Over the next few months this education portal will <b>spring to life</b>.
       <br />
       <br />
       Watch it fill up with new ways you can learn about EOS, how to build on the network, and earn money with that knowledge.

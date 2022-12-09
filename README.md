@@ -1,5 +1,5 @@
 # frontend
-This repository contains frontend website code for the DevHub pre-registration portal at [learn.eosnetwork.com](https://learn.eosnetwork.com).
+This repository contains website frontend code for the DevHub pre-registration portal previously at [learn.eosnetwork.com](https://learn.eosnetwork.com).
 
 ## Build Setup
 

@@ -1,6 +1,6 @@
 # frontend
 ```diff
-- NOTICE: Preregistration has concluded and this repo is now archived!
+- NOTICE: Preregistration has concluded and this repo is archived!
 ```
 **This code now lives in [eosnetworkfoundation/devhub](https://github.com/eosnetworkfoundation/devhub).**
 

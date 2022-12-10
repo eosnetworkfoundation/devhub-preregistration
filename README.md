@@ -1,4 +1,6 @@
 # frontend
+**This code now lives in [eosnetworkfoundation/devhub](https://github.com/eosnetworkfoundation/devhub).**
+
 This repository contains website frontend code for the DevHub pre-registration portal previously at [learn.eosnetwork.com](https://learn.eosnetwork.com).
 
 ## Build Setup
